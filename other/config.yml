@@ -1,0 +1,9 @@
+drinkPure: 3 # The amount of points to get, when you drink a bottle of pure water
+drink: 1 # The amount of points to get, when you drink a bottle of normal water
+thirst: 1 # Amount of points to loose, in a thirst cycle
+thirstPeriod: 38 # Amount of seconds, after which you get thirst
+damage: 1 # Amount of damage to get, in a damage cycle
+damagePeriod: 1 # Amount of seconds, after which you get damaged
+cookingTime: 7 # The amount of seconds, that it takes to pureify water
+hungerDuration: 5 # The amount of seconds, for which the hunger effect lasts
+nauseaDuration: 10 # The amount of seconds, for which the nausea effect lasts

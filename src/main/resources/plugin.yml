@@ -1,0 +1,5 @@
+name: Thirst
+version: '${project.version}'
+main: com.xxdraggy.thirst.Plugin
+api-version: 1.20
+authors: [ Xx_Draggy ]
